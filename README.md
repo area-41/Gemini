@@ -59,4 +59,12 @@ Apostas conscientes: Manter as apostas dentro de um limite financeiro estabeleci
 ##### Observação: É importante ressaltar que essas sugestões são baseadas em uma análise limitada do histórico de navegação. A otimização do tempo depende das prioridades e objetivos individuais do usuário.
 
 
+
+## DIA 2
+
+Guia de design de prompts do Google  -> https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br
+Acesse a comunidade Innovators aqui -> https://cloud.google.com/innovators?hl=pt-br
+
+
+
 ![image](https://github.com/area-41/Gemini/assets/87396846/33f84cbd-5c01-449f-8ee4-1b427289b2d8)
