@@ -27,7 +27,10 @@ Conhecendo o Gemini e ver como criar tabelas, escrever poemas, gerar códigos e 
 
 
 ----
+### Desafios:
 
+- Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você;
+- Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site;
 
 Após carregamento de um arquivo csv com o histórico de navegação do Chrome.
 
@@ -62,9 +65,14 @@ Apostas conscientes: Manter as apostas dentro de um limite financeiro estabeleci
 
 ## DIA 2
 
-Guia de design de prompts do Google  -> https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br
-Acesse a comunidade Innovators aqui -> https://cloud.google.com/innovators?hl=pt-br
+- Guia de design de prompts do Google  -> https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br
+- Acesse a comunidade Innovators aqui -> https://cloud.google.com/innovators?hl=pt-br
 
+---
 
+### Desafios:
+
+- Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real;
+- Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título. Veja se existe alguma técnica ou padrão;
 
 ![image](https://github.com/area-41/Gemini/assets/87396846/33f84cbd-5c01-449f-8ee4-1b427289b2d8)
