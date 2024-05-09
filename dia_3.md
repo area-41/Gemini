@@ -4,7 +4,7 @@
 Galeria de prompts do Google AI Studio -> https://ai.google.dev/examples?hl=pt-br
 
 ## Exemplo 1 - Geração de Texto
-  Através do prompt "redatora de descrição de marketing", inseriu-se (INPUT) uma "imagem" e o alvo de audiência em "People / AI", tendo como saída (OUTPUT) um "texto de uma descrição de marketing".
+  Através do prompt "Redatora de descrição de marketing", inseriu-se (INPUT) uma "imagem" e o alvo de audiência em "People / AI", tendo como saída (OUTPUT) um "texto de uma descrição de marketing".
 
 #### Usando o prompt:
 - Redatora de descrição de marketing
@@ -55,3 +55,33 @@ Obrigado por lerem!
 
 *IMAGEM DO OUTPUT*
 ![image](https://github.com/area-41/Gemini/assets/87396846/8a84f044-9e6c-42e4-823d-00e9526733d7)
+
+
+
+## Exemplo 3 - Listar itens da imagem
+  Através do prompt "Listar itens com base na imagem", inseriu-se (INPUT) uma "imagem", tendo como saída (OUTPUT) uma "lista de ítens".
+
+#### Usando o prompt:
+- Listar itens com base na imagem
+  
+#### INPUT:
+ - Imagem:
+   ![image](https://github.com/area-41/Gemini/assets/87396846/77b02653-da01-4dec-9143-b8d6af61c642)
+ 
+
+#### OUTPUT:
+ - Lista:
+      - 3 people
+      - alura logo
+      - aulas
+      - calendario
+      - grupos de estudos
+      - imersao ia
+      - manha
+      - noite
+      - tarde 
+
+
+
+*IMAGEM DO OUTPUT*
+![image](https://github.com/area-41/Gemini/assets/87396846/e8d1924b-f6d6-4692-8585-2c61150f4b8c)
