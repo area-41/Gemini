@@ -1,7 +1,14 @@
 # Imersão Inteligência Artificial 2ª Edição
 # DIA 3
+LINKS:
+- Galeria de prompts do Google AI Studio -> https://ai.google.dev/examples?hl=pt-br
 
-Galeria de prompts do Google AI Studio -> https://ai.google.dev/examples?hl=pt-br
+OBJETIVOS:
+ - Conhecer os 3 tipos de prompts do Google AI Studio: chat prompts, freeform prompts e structured prompts;
+ - Explorar os parâmetros do Google AI Studio;
+ - Conhecer mais sobre os tokens e PLN;
+ - Iniciar o contato com Python pelo Google Colab.
+
 
 ## Exemplo 1 - Geração de Texto
   Através do prompt "Redatora de descrição de marketing", inseriu-se (INPUT) uma "imagem" e o alvo de audiência em "People / AI", tendo como saída (OUTPUT) um "texto de uma descrição de marketing".
@@ -85,3 +92,63 @@ Obrigado por lerem!
 
 *IMAGEM DO OUTPUT*
 ![image](https://github.com/area-41/Gemini/assets/87396846/e8d1924b-f6d6-4692-8585-2c61150f4b8c)
+
+----
+
+## Exemplo Chat
+
+Agora utilizando o "chat prompt" e definindo "Instruções de Sistema".
+
+#### Usando o prompt:
+- Chat Prompt
+  
+#### INPUT:
+ - System Instructions:
+   Você é um especialista em inteligência artificial
+ 
+
+#### OUTPUT:
+
+#### Estrutura de um sistema de automação de aprendizado de máquina para reciclagem
+Este sistema visa melhorar a reciclagem através da educação e automatização, utilizando aprendizado de máquina e visão computacional.
+##### Componentes principais:
+- Identificação de materiais:
+Visão computacional: Câmeras instaladas em pontos de coleta (lixeiras inteligentes, esteiras de triagem) capturam imagens do lixo.
+Algoritmos de classificação de imagem: Modelos de deep learning, como redes neurais convolucionais (CNNs), são treinados para identificar diferentes tipos de materiais (plástico, papel, vidro, metal, orgânico) nas imagens.
+Banco de dados de materiais: O sistema precisa de um banco de dados extenso com imagens de diferentes tipos de lixo para treinar os algoritmos de classificação.
+- Educação e feedback:
+Interface de usuário: Aplicativo móvel ou telas nas lixeiras inteligentes exibem informações sobre o material identificado e se ele foi descartado corretamente.
+Feedback personalizado: O sistema rastreia o histórico de reciclagem do usuário e oferece feedback personalizado para melhorar seus hábitos de reciclagem.
+Gamificação: Implementação de elementos de jogos como pontuações, níveis e recompensas para motivar os usuários a reciclar mais e melhor.
+- Automação do processo:
+Classificação automatizada: Com base na identificação dos materiais, o sistema direciona os resíduos para os recipientes corretos, utilizando esteiras e braços robóticos.
+Compactação e armazenamento: O sistema otimiza o armazenamento dos resíduos, compactando os materiais e organizando-os de forma eficiente.
+- Monitoramento e análise:
+Painel de controle: Monitoramento em tempo real dos dados de reciclagem, como tipos e quantidades de materiais coletados, taxas de contaminação e desempenho do sistema.
+Análise de dados: Utilização de técnicas de aprendizado de máquina para identificar padrões e tendências nos dados de reciclagem, permitindo otimizar o sistema e campanhas de conscientização.
+
+##### Benefícios:
+- Aumento das taxas de reciclagem: Identificação precisa dos materiais e feedback aos usuários reduzem a contaminação e melhoram a qualidade dos recicláveis.
+- Eficiência operacional: Automação da classificação e compactação reduz custos e aumenta a produtividade.
+- Educação e conscientização: Feedback personalizado e gamificação promovem mudanças de comportamento e maior engajamento na reciclagem.
+- Dados valiosos: Análise de dados permite insights sobre hábitos de reciclagem, otimização de sistemas e desenvolvimento de políticas públicas.
+
+##### Desafios:
+- Custo de implementação: Câmeras, sensores, robótica e desenvolvimento de software podem ser caros.
+- Manutenção: O sistema precisa de manutenção regular para garantir o funcionamento adequado.
+- Contaminação: Materiais sujos ou misturados podem dificultar a identificação e classificação.
+- Privacidade: É necessário garantir a privacidade dos usuários ao coletar e analisar dados de reciclagem.
+
+##### Considerações adicionais:
+- Integração com sistemas existentes: O sistema deve ser compatível com a infraestrutura de coleta de lixo e as instalações de reciclagem.
+- Adaptabilidade: O sistema deve ser adaptável a diferentes tipos de resíduos e fluxos de reciclagem.
+- Sustentabilidade: O sistema deve ser projetado com foco em eficiência energética e uso de materiais sustentáveis.
+
+#### Conclusão:
+Um sistema de automação de aprendizado de máquina para reciclagem tem o potencial de revolucionar a forma como lidamos com os resíduos, promovendo um futuro mais sustentável. Superando os desafios e implementando o sistema de forma eficaz, podemos aumentar as taxas de reciclagem, reduzir o impacto ambiental e criar comunidades mais limpas e saudáveis.
+
+
+*IMAGEM DO OUTPUT*
+![image](https://github.com/area-41/Gemini/assets/87396846/2b98b015-5169-4f85-ad19-88dca56b11bb)
+
+
