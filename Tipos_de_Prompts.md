@@ -152,3 +152,40 @@ Um sistema de automação de aprendizado de máquina para reciclagem tem o poten
 ![image](https://github.com/area-41/Gemini/assets/87396846/2b98b015-5169-4f85-ad19-88dca56b11bb)
 
 
+
+## Exemplo Figuras
+
+Agora utilizando o "chat prompt" e carregando um desenho feito no "Paint" do Windows.
+
+#### Usando o prompt:
+- Chat Prompt
+  
+#### INPUT 01:
+ - Imagem:
+   ![image](https://github.com/area-41/Gemini/assets/87396846/dbe6c464-a8a0-4ff3-b0dc-f36cca562315)
+
+#### OUTPUT:
+A imagem mostra um desenho simples de um rosto feliz com orelhas grandes.
+
+
+#### INPUT 02:
+![image](https://github.com/area-41/Gemini/assets/87396846/e99b1d41-7944-462c-ae85-5dff68f2c91f)
+
+#### OUTPUT:
+A imagem mostra o presidente dos Estados Unidos, Joe Biden, discursando em um pódio. Ele está vestindo um terno azul e uma gravata azul clara e tem uma expressão séria no rosto. Ele está gesticulando com a mão direita e há microfones na sua frente. Atrás dele, há uma bandeira americana.
+
+AGORA COM UMA PEQUENA ALTERAÇÃO NA IMAGEM
+#### INPUT 02 - 01:
+![image](https://github.com/area-41/Gemini/assets/87396846/3fef9256-358e-48ea-b6ce-f6939b0cdd4d)
+
+#### OUTPUT:
+A imagem mostra o presidente dos Estados Unidos, Joe Biden, discursando em um pódio. Ele está vestindo um terno azul, camisa branca e uma gravata azul clara. Ele está gesticulando com a mão direita e há microfones posicionados em sua frente. Atrás dele, há uma grande bandeira americana. Biden parece estar falando com paixão, sua boca está aberta e seus olhos estão semicerrados.
+
+Podemos observar que o Gemini entendeu a alteração na imagem como "Biden parece estar falando com paixão, sua boca está aberta e seus olhos estão semicerrados."
+
+E ainda classificou como uma imagem com baixa possibilidade de ser imprópria por conteúdo sexual.
+![image](https://github.com/area-41/Gemini/assets/87396846/004b02b0-a721-4e48-85dc-ca47f303f1bc)
+
+
+*IMAGEM DO OUTPUT*
+![image](https://github.com/area-41/Gemini/assets/87396846/d535a930-651d-4d87-9b1a-c31ba54ac474)
